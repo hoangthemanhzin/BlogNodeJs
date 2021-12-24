@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangthemanhzin/BlogNodejs.git"
+  },
+  "keywords": [
+    "Blog"
+  ],
+  "author": "Zin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangthemanhzin/BlogNodejs/issues"
+  },
+  "homepage": "https://github.com/hoangthemanhzin/BlogNodejs#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
